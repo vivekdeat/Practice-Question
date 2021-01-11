@@ -5,3 +5,4 @@ Aim-: One day this repo will have 1000 coding questions with solution.
 3. https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/mannas-first-name-4/description/ (This question is solved in C but in c++ this question "lvalue required as left operand of assignment").
 4. https://www.codechef.com/problems/SEGM01
 5. https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/rest-in-peace-21-1/description/
+6. https://www.spoj.com/problems/CSUMQ/

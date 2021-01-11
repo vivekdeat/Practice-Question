@@ -6,3 +6,4 @@ Aim-: One day this repo will have 1000 coding questions with solution.
 4. https://www.codechef.com/problems/SEGM01
 5. https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/rest-in-peace-21-1/description/
 6. https://www.spoj.com/problems/CSUMQ/
+7. https://www.codechef.com/problems/BLONDIE

@@ -9,3 +9,7 @@ Aim-: One day this repo will have 1000 coding questions with solution.
 7. https://www.codechef.com/problems/BLONDIE
 8. https://codeforces.com/contest/1343/problem/D (Intresting Question. sol: https://www.youtube.com/watch?v=TSUvGqRFlug)
 9. https://www.hackerrank.com/contests/ab-yeh-kar-ke-dikhao/challenges/kj-and-street-lights/problem (Based on above Question).
+10. https://www.codechef.com/problems/PRB01
+11. https://codeforces.com/contest/1475/problem/A
+12. https://codeforces.com/contest/1475/problem/B
+

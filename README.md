@@ -12,4 +12,5 @@ Aim-: One day this repo will have 1000 coding questions with solution.
 10. https://www.codechef.com/problems/PRB01
 11. https://codeforces.com/contest/1475/problem/A
 12. https://codeforces.com/contest/1475/problem/B
+13. https://www.spoj.com/problems/TDKPRIME/
 

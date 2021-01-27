@@ -13,4 +13,4 @@ Aim-: One day this repo will have 1000 coding questions with solution.
 11. https://codeforces.com/contest/1475/problem/A
 12. https://codeforces.com/contest/1475/problem/B
 13. https://www.spoj.com/problems/TDKPRIME/
-
+14. https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/micro-and-prime-prime-1/description/

@@ -16,3 +16,4 @@ Aim-: One day this repo will have 1000 coding questions with solution.
 14. https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/micro-and-prime-prime-1/description/
 15. https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1#
 16. https://leetcode.com/problems/most-common-word/
+17. https://leetcode.com/problems/min-stack/
